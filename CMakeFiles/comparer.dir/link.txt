@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/comparer.dir/src/comparer/comparer.c.o -o comparer  -Wl,-rpath,/root/test_project_src libbmp.so 

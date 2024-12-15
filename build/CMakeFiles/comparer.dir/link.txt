@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra -Werror CMakeFiles/comparer.dir/src/comparer/comparer.c.o -o comparer  libbmp.a 

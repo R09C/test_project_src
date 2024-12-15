@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbmp.a CMakeFiles/bmp.dir/src/bmp/bmp.c.o
+/usr/bin/ranlib libbmp.a

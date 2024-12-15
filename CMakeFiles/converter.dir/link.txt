@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/converter.dir/src/converter/converter.c.o -o converter  -Wl,-rpath,/root/test_project_src libbmp.so 

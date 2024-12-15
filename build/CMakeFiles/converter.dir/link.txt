@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra -Werror CMakeFiles/converter.dir/src/converter/converter.c.o -o converter  libbmp.a 

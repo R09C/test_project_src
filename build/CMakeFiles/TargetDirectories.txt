@@ -1,0 +1,5 @@
+/root/test_project_src/build/CMakeFiles/bmp.dir
+/root/test_project_src/build/CMakeFiles/converter.dir
+/root/test_project_src/build/CMakeFiles/comparer.dir
+/root/test_project_src/build/CMakeFiles/edit_cache.dir
+/root/test_project_src/build/CMakeFiles/rebuild_cache.dir

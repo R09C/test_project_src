@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libbmp.so -o libbmp.so CMakeFiles/bmp.dir/src/bmp/bmp.c.o 
